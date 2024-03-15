@@ -4,3 +4,4 @@ export const fetchJson = async () => {
   const { times } = res;
   return times;
 };
+

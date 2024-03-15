@@ -6,10 +6,14 @@
       "pais": "Brasil",
       "fundacao": "1895",
       "tabela": {
-        "pontos": 15,
-        "vitorias": 5,
-        "derrotas": 3,
-        "empates": 4
+        "pontos": 0,
+        "jogos":0,
+        "vitorias": 0,
+        "empates": 0,
+        "derrotas": 0,
+        "gp":0,
+        "gc":0,
+        "sg":0
       },
       "estadio": {
         "nome": "Maracanã",
@@ -47,6 +51,16 @@
       "escudoUrl": "https://s.sde.globo.com/media/organizations/2018/03/11/sao-paulo.svg",
       "pais": "Brasil",
       "fundacao": "1930",
+      "tabela": {
+        "pontos": 0,
+        "jogos":0,
+        "vitorias": 0,
+        "empates": 0,
+        "derrotas": 0,
+        "gp":0,
+        "gc":0,
+        "sg":0
+      },
       "estadio": {
         "nome": "Morumbi",
         "capacidade": 67334,
@@ -81,7 +95,19 @@
     {
       "nome": "Palmeiras",
       "pais": "Brasil",
+      "escudoUrl": "https://s.sde.globo.com/media/organizations/2019/07/06/Palmeiras.svg",
+
       "fundacao": "1914",
+      "tabela": {
+        "pontos": 0,
+        "jogos":0,
+        "vitorias": 0,
+        "empates": 0,
+        "derrotas": 0,
+        "gp":0,
+        "gc":0,
+        "sg":0
+      },
       "estadio": {
         "nome": "Allianz Parque",
         "capacidade": 43746,
@@ -115,8 +141,20 @@
     },
     {
       "nome": "Corinthians",
+      "escudoUrl": "https://s.sde.globo.com/media/organizations/2019/09/30/Corinthians.svg",
+
       "pais": "Brasil",
       "fundacao": "1910",
+      "tabela": {
+        "pontos": 0,
+        "jogos":0,
+        "vitorias": 0,
+        "empates": 0,
+        "derrotas": 0,
+        "gp":0,
+        "gc":0,
+        "sg":0
+      },
       "estadio": {
         "nome": "Arena Corinthians",
         "capacidade": 49220,
@@ -150,8 +188,19 @@
     },
     {
       "nome": "Santos",
+      "escudoUrl": "https://s.sde.globo.com/media/organizations/2018/03/12/santos.svg",
       "pais": "Brasil",
       "fundacao": "1912",
+      "tabela": {
+        "pontos": 0,
+        "jogos":0,
+        "vitorias": 0,
+        "empates": 0,
+        "derrotas": 0,
+        "gp":0,
+        "gc":0,
+        "sg":0
+      },
       "estadio": {
         "nome": "Vila Belmiro",
         "capacidade": 16605,
@@ -185,8 +234,19 @@
     },
     {
       "nome": "Internacional",
+      "escudoUrl": "https://s.sde.globo.com/media/organizations/2018/03/11/internacional.svg",
       "pais": "Brasil",
       "fundacao": "1909",
+      "tabela": {
+        "pontos": 0,
+        "jogos":0,
+        "vitorias": 0,
+        "empates": 0,
+        "derrotas": 0,
+        "gp":0,
+        "gc":0,
+        "sg":0
+      },
       "estadio": {
         "nome": "Beira-Rio",
         "capacidade": 50342,
@@ -220,8 +280,65 @@
     },
     {
       "nome": "Grêmio",
+      "escudoUrl": "https://s.sde.globo.com/media/organizations/2018/03/12/gremio.svg",
       "pais": "Brasil",
       "fundacao": "1903",
+      "tabela": {
+        "pontos": 0,
+        "jogos":0,
+        "vitorias":0,
+        "empates": 0,
+        "derrotas": 0,
+        "gp":0,
+        "gc":0,
+        "sg":0
+      },
+      "estadio": {
+        "nome": "Arena do Grêmio",
+        "capacidade": 60540,
+        "localizacao": "Porto Alegre"
+      },
+      "treinador": {
+        "nome": "Felipão",
+        "nascimento": "30 de novembro de 1948",
+        "nacionalidade": "Brasileiro"
+      },
+      "jogadores": [
+        {
+          "nome": "Diego Souza",
+          "posicao": "Atacante",
+          "idade": 36,
+          "nacionalidade": "Brasileiro"
+        },
+        {
+          "nome": "Brenno",
+          "posicao": "Goleiro",
+          "idade": 23,
+          "nacionalidade": "Brasileiro"
+        },
+        {
+          "nome": "Matheus Henrique",
+          "posicao": "Meio-campista",
+          "idade": 24,
+          "nacionalidade": "Brasileiro"
+        }
+      ]
+    },
+    {
+      "nome": "Fluminense",
+      "escudoUrl": "https://s.sde.globo.com/media/organizations/2018/03/11/fluminense.svg",
+      "pais": "Brasil",
+      "fundacao": "1903",
+      "tabela": {
+        "pontos": 0,
+        "jogos":0,
+        "vitorias":0,
+        "empates": 0,
+        "derrotas": 0,
+        "gp":0,
+        "gc":0,
+        "sg":0
+      },
       "estadio": {
         "nome": "Arena do Grêmio",
         "capacidade": 60540,
